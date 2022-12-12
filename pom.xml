@@ -25,6 +25,7 @@
 
 						<suiteXmlFiles>
 							<suiteXmlFile>testngLog4J.xml</suiteXmlFile>
+							<suiteXmlFile>testngLog4J.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>testng_mobile.xml</suiteXmlFile> -->
 
 						</suiteXmlFiles>
